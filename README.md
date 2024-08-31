@@ -14,8 +14,12 @@
 用LSTM、GRU来训练字符级的语言模型，计算困惑度
 
 
-pytorch:1.9.0
+pytorch:1.9.0+cpu
+
 torch_geometric:2.5.3
+
 torch_scatter:2.0.9
+
 torch_sparse:0.6.12
+
 torchvision:0.10.1
